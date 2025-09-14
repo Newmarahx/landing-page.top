@@ -9,7 +9,8 @@ header{
     width:100%;
     height:400px;
     background:#03032E;
-    margin: 0;    
+    margin: 0;
+    position:fixed;    
 }
 
 main{
