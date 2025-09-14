@@ -18,6 +18,12 @@ main{
     height:auto;
 }
 
+.campus-web{
+    display:flex;
+    flex:1;
+    
+}
+
 ul{
     display:flex;
     list-style-type: none;
