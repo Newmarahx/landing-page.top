@@ -5,12 +5,16 @@ body{
     padding:0;
 }
 
+nav{
+    position:fixed;
+}
+
 header{
     width:100%;
     height:400px;
     background:#03032E;
     margin: 0;
-    position:fixed;    
+    
 }
 
 main{
